@@ -1,0 +1,32 @@
+{
+  "week": "July 20-24, 2026",
+  "name": "Yujie Zhu",
+  "contact": {
+    "mobile": "4249984134",
+    "email": "yjzhu131@gmail.com",
+    "telegram": "4249984134",
+    "github": "yjzhu131@gmail.com"
+  },
+  "weekly_overview": "Completed the first four MIT Python lectures and attended two meetings.",
+  "python_learning_progress": [
+    "Completed MIT Python Lectures 1-4",
+    "Reviewed core topics including Python syntax, variables, data types, conditionals, loops, string manipulation, basic search methods, functions, and variable scope."
+  ],
+  "intern_meeting": [
+    "Continue MIT Python course",
+    "Create GitHub account",
+    "Upload projects",
+    "Write README",
+    "Add butterfly box comments"
+  ],
+  "github_sharing": [
+    "Create repository",
+    "Clone repository",
+    "git pull origin main"
+  ],
+  "next_steps": [
+    "Continue MIT lectures",
+    "Organize GitHub repositories",
+    "Start a small Python project"
+  ]
+}
