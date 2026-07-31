@@ -1,0 +1,29 @@
+{
+  "title": "WEEKLY REPORT",
+  "week": "July 27-31, 2026",
+  "intern": {
+    "name": "Yujie Zhu",
+    "mobile": "4249984134",
+    "email": "yjzhu131@gmail.com",
+    "telegram": "4249984134",
+    "github": "yjzhu131@gmail.com"
+  },
+  "weekly_overview": "This week, I completed three additional lecture slides for the MIT Introduction to Computer Science and Programming in Python course. I also began working on a small Python project (State Capitals Project).",
+  "python_learning_progress": [
+    "Completed MIT Python Lectures 5-7.",
+    "Reviewed topics including testing, debugging, exceptions, assertions, recursion, and dictionary-related concepts."
+  ],
+  "project_progress": {
+    "project_name": "State Capitals Project",
+    "github": "https://github.com/yjzhu131-tech/State-Capitals-Project",
+    "progress": [
+      "Set up the project environment and reviewed the project structure.",
+      "Completed part of the implementation and tested the current functionality."
+    ]
+  },
+  "next_steps": [
+    "Continue with the next MIT Python lectures and complete the related exercises.",
+    "Finish the State Capitals Project.",
+    "Begin working on the next Python project after completing the current one."
+  ]
+}
