@@ -1,0 +1,29 @@
+{
+  "week": "August 03-07, 2026",
+  "name": "Yujie Zhu",
+  "contact": {
+    "mobile": "4249984134",
+    "email": "yjzhu131@gmail.com",
+    "telegram": "4249984134",
+    "github": "yjzhu131@gmail.com"
+  },
+  "weekly_overview": "This week, I completed four MIT Python covering object-oriented programming, computational complexity, Big O notation, and binary search. I also completed the FizzBuzz small project and uploaded to GitHub and started working on the Gallon Bucket Problem.",
+  "python_learning_progress": [
+    "Completed MIT Python Lectures 8-11.",
+    "Learned object-oriented programming concepts, including classes, inheritance, class variables, and operator overloading.",
+    "Studied computational complexity, Big O notation, common complexity classes, and binary search."
+  ],
+  "project_progress": {
+    "project_name": "FizzBuzz Porject",
+    "github": "https://github.com/yjzhu131-tech/FizzBuzz-Project",
+    "progress": [
+      "Completed the FizzBuzz Project and uploaded it to GitHub.",
+      "Started working on the Gallon Bucket Problem project."
+    ]
+  },
+  "next_steps": [
+    "Continue with the next MIT Python lectures and complete the related exercises.",
+    "Finish the Gallon Bucket Problem project.",
+    "Begin working on the next Python project after completing the current one."
+  ]
+}
