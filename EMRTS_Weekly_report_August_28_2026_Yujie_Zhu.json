@@ -1,0 +1,27 @@
+{
+  "week": "August 24-28, 2026",
+  "name": "Yujie Zhu",
+  "contact": {
+    "mobile": "4249984134",
+    "email": "yjzhu131@gmail.com",
+    "telegram": "4249984134-Yujie Zhu",
+    "github": "https://github.com/yjzhu131-tech"
+  },
+  "weekly_overview": "TThis week, I continued working through the MIT Python course and completed approximately two and a half lectures. I also completed the Provider lookup project and uploaded it to GitHub. In addition, I started working on the Provider Exclusion list project.",
+  "python_learning_progress": [
+    "Completed MIT 60002 Lecture 6, 7, 8.",
+    "These lectures cover Monte Carlo simulation, using repeated random experiments to estimate unknown quantities and understand how sample size and variance affect confidence in an estimate.",
+    "They also cover normal distributions, confidence intervals, sampling, the Central Limit Theorem, and standard error, explaining how we can use samples to estimate a population and quantify the uncertainty of those estimates."
+  ],
+  "project_progress": {
+    "progress": [
+      "Completed the Provider lookup  Problem project and uploaded it to GitHub. But I still need to add the Django feature. https://github.com/yjzhu131-tech/Provider-Lookup-Project",
+      "Started working on the Provider exclusion list project"
+    ]
+  },
+  "next_steps": [
+    "Continue with the next MIT Python lectures and complete the related exercises.",
+    "Finish the Provider lookup Project.",
+    "Begin working on the next Python project after completing the current one."
+  ]
+}
