@@ -1,0 +1,28 @@
+{
+  "week": "September 04 - 11, 2026",
+  "name": "Yujie Zhu",
+  "contact": {
+    "mobile": "4249984134",
+    "email": "yjzhu131@gmail.com",
+    "telegram": "4249984134-Yujie Zhu",
+    "github": "https://github.com/yjzhu131-tech"
+  },
+  "weekly_overview": "TThis week, I continued working through the MIT Python course and completed approximately two and a half lectures. In addition, I started working on the Provider Exclusion list project.",
+  "python_learning_progress": [
+    "Completed MIT 60002 Lecture 11, 12, 13.",
+    "These lectures introduce the fundamentals of machine learning, covering the distinction between supervised and unsupervised learning and how distance between data points can be used to identify patterns and make predictions.",
+    "They then focus on two major applications: clustering using hierarchical clustering and K-means, and classification using methods such as K-nearest neighbors and logistic regression, along with techniques for evaluating model performance."
+  ],
+  "project_progress": {
+    "progress": [
+      "Working on the Provider exclusion list project",
+      "Finished the database establishment."
+
+    ]
+  },
+  "next_steps": [
+    "Continue with the next MIT Python lectures and complete the related exercises.",
+    "Finish the Provider lookup Project.",
+    "Begin working on the next Python project after completing the current one."
+  ]
+}
