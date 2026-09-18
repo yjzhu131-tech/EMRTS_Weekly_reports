@@ -1,0 +1,23 @@
+{
+  "week": "September 14 - 18, 2026",
+  "name": "Yujie Zhu",
+  "contact": {
+    "mobile": "4249984134",
+    "email": "yjzhu131@gmail.com",
+    "telegram": "4249984134-Yujie Zhu",
+    "github": "https://github.com/yjzhu131-tech"
+  },
+  "weekly_overview": "This week, I continued working through the MIT Python course and completed approximately two and a half lectures. I also completed the Provider lookup project and uploaded it to GitHub. In addition, I completed the Provider Exclusion list project.",
+  "python_learning_progress": [
+    "Completed MIT 60002 Lecture 14, 15.",
+    "These lectures cover classification with logistic regression and common statistical pitfalls, emphasizing careful model evaluation, visualization, and sampling. Lecture 15 continues with misleading uses of statistics and reviews major course topics such as optimization, stochastic thinking, modeling, and machine learning."
+  ],
+  "project_progress": {
+    "progress": [
+      "Finished the Provider exclusion list project"
+    ]
+  },
+  "next_steps": [
+    "Begin working on the Medicaid Enrollment and Expenditure forecasting project."
+  ]
+}
