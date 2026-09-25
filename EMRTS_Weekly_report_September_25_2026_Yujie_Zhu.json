@@ -1,0 +1,22 @@
+{
+  "week": "September 21 - 25, 2026",
+  "name": "Yujie Zhu",
+  "contact": {
+    "mobile": "4249984134",
+    "email": "yjzhu131@gmail.com",
+    "telegram": "4249984134-Yujie Zhu",
+    "github": "https://github.com/yjzhu131-tech"
+  },
+  "weekly_overview": "This week, I completed the MIT course and shifted my main focus to project work. For the Provider Exclusion project, the web interface has been built, and I began expanding the exclusion data coverage to include California, Illinois, and New York State.",
+  "python_learning_progress": [
+    "Completed MIT 60002 course"
+  ],
+  "project_progress": {
+    "progress": [
+      "Continued working on the Provider Exclusion project. The web interface is now in place. I added New York State and California provider exclusion data and am currently working to locate a suitable Illinois exclusion data source"
+    ]
+  },
+  "next_steps": [
+    "Clean and standardize the state exclusion datasets, load them into the database, and integrate them with the web interface so users can search the combined provider exclusion data."
+  ]
+}
