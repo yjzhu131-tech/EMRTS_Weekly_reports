@@ -1,0 +1,21 @@
+{
+  "week": "October-02, 2026",
+  "name": "Yujie Zhu",
+  "contact": {
+    "mobile": "4249984134",
+    "email": "yjzhu131@gmail.com",
+    "telegram": "4249984134-Yujie Zhu",
+    "github": "https://github.com/yjzhu131-tech"
+  },
+  "weekly_overview": "This week, I completed the Provider Exclusion List project by adding New York State and California exclusion data and integrating the results into the Django web application. I also started the Medicaid Expenditure and Enrollment project by collecting the relevant datasets and reviewing their structures. ",
+  "project_progress": {
+    "progress": [
+      "Provider Exclusion List: Completed the project, added New York State and California exclusion data, and made the data available through the Django application.",
+    "Medicaid Expenditure and Enrollment: Started collecting expenditure and enrollment data. Identified that expenditure data is reported annually, while enrollment data is reported monthly. Began reviewing the tables to determine the cleaning and extraction steps needed for analysis."
+    ]
+    
+  },
+  "next_steps": [
+    "Clean and organize the Medicaid expenditure and enrollment tables, extract the required fields, and prepare the datasets for analysis while accounting for their different reporting frequencies."
+  ]
+}
