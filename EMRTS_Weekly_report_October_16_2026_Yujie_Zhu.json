@@ -1,0 +1,21 @@
+{
+  "week": "October-12, 2026",
+  "name": "Yujie Zhu",
+  "contact": {
+    "mobile": "4249984134",
+    "email": "yjzhu131@gmail.com",
+    "telegram": "4249984134-Yujie Zhu",
+    "github": "https://github.com/yjzhu131-tech"
+  },
+  "weekly_overview": "This week, I developed forecasts for Medicaid enrollment and expenditure data. For enrollment, I applied Prophet and a policy changepoint model; for expenditure, I used Holt’s damped trend method. I also incorporated CHIP data and completed state-level forecasting work for New York, Illinois, Pennsylvania, and Washington.",
+  "project_progress": {
+    "progress": [
+      "Medicaid Enrollment Forecasting: Applied Prophet and a policy changepoint model to forecast enrollment trends, incorporating CHIP data into the analysis.",
+    "Medicaid Expenditure Forecasting: Used Holt’s damped trend method to project expenditure trends. Completed state-level analyses for New York, Illinois, Pennsylvania, and Washington"
+    ]
+    
+  },
+  "next_steps": [
+    "Extend the enrollment and expenditure forecasts to the national level. Add written explanations of the forecasting methods, key trends, and results to support interpretation of the analysis."
+  ]
+}
