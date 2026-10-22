@@ -1,0 +1,21 @@
+{
+  "week": "October-19, 2026",
+  "name": "Yujie Zhu",
+  "contact": {
+    "mobile": "4249984134",
+    "email": "yjzhu131@gmail.com",
+    "telegram": "4249984134-Yujie Zhu",
+    "github": "https://github.com/yjzhu131-tech"
+  },
+  "weekly_overview": "This week, I updated the Medicaid dataset, generated a document report, and researched potential explanations for the trends observed across four states: New York, Illinois, Pennsylvania, and Washington. I also consolidated the findings into a Word document and generated HTML content for presentation.",
+  "project_progress": {
+    "progress": [
+      "Generated a report summarizing the Medicaid data and related findings. Investigated potential factors contributing to the observed patterns in New York, Illinois, Pennsylvania, and Washington.",
+    "Organized the analysis and research findings into a Word document and generated corresponding HTML content."
+    ]
+    
+  },
+  "next_steps": [
+    "Review the current projects and selected proposals from mmis.ai to better understand their ongoing work and priorities."
+  ]
+}
